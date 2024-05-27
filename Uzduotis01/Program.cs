@@ -9,7 +9,7 @@
     // Galų gale, parašykite klasę Nuoma, kurioje yra sąrašas su turimais automobiliais.
     // Sukurti metodus, kurie leistų pridėti naujus automobilius į sąrašą, pasiimti automobilį iš sąrašo ir apskaičiuoti nuomos kainą už nurodytą dienų skaičių.
     // Pridėti viso autoparko atspausdinimą. Susikūrus klasę autoparkas prisidėti sąrašą automobilių.
-    internal class Uzduotis01
+    internal class Program
     {
         private static Fleet fleet = new();
         private static Rent rent = new();
