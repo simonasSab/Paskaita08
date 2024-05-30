@@ -16,7 +16,7 @@
         {
             return FuelConsumption;
         }
-        public void SetFuelConsumption(int fuelConsumption)
+        public void SetFuelConsumption(double fuelConsumption)
         {
             FuelConsumption = fuelConsumption;
         }
